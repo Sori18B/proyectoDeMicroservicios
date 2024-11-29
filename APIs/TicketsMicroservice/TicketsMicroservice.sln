@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketsMicroservice", "TicketsMicroservice\TicketsMicroservice.csproj", "{8094CB1A-2CC0-439F-B865-021BB4EAD38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8094CB1A-2CC0-439F-B865-021BB4EAD38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8094CB1A-2CC0-439F-B865-021BB4EAD38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8094CB1A-2CC0-439F-B865-021BB4EAD38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8094CB1A-2CC0-439F-B865-021BB4EAD38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5844008-9D86-4E18-A06B-F1F32C24998B}
+	EndGlobalSection
+EndGlobal

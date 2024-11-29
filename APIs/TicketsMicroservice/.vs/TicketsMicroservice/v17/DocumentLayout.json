@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\entities\\ticketlistmodelwithticketid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\entities\\ticketlistmodelwithticketid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\repositories\\ticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\repositories\\ticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\repositories\\itickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\repositories\\itickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\entities\\ticketlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\entities\\ticketlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\entities\\preliminaryticketslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\entities\\preliminaryticketslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\entities\\misticketsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\entities\\misticketsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\entities\\ticketlistbyclientid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\entities\\ticketlistbyclientid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\entities\\updateticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\entities\\updateticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\entities\\completeticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\entities\\completeticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\entities\\createpreliminaryticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\entities\\createpreliminaryticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\entities\\ticketresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\entities\\ticketresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\ticketsmicroservice\\ticketsmicroservice\\entities\\ticketwithuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094CB1A-2CC0-439F-B865-021BB4EAD38B}|TicketsMicroservice\\TicketsMicroservice.csproj|solutionrelative:ticketsmicroservice\\entities\\ticketwithuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Program.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwCoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:31:19.569Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\appsettings.json",
+              "RelativeToolTip": "TicketsMicroservice\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T03:31:17.513Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITickets.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Repositories\\ITickets.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Repositories\\ITickets.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Repositories\\ITickets.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Repositories\\ITickets.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:14:59.479Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Repositories\\TicketsRepository.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Repositories\\TicketsRepository.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Repositories\\TicketsRepository.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Repositories\\TicketsRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:29:36.527Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAHgBAAAAAAAAAAAwwF4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:29:40.274Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketListModelWithTicketID.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\TicketListModelWithTicketID.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Entities\\TicketListModelWithTicketID.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\TicketListModelWithTicketID.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Entities\\TicketListModelWithTicketID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:40:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MisTicketsModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\MisTicketsModel.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Entities\\MisTicketsModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\MisTicketsModel.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Entities\\MisTicketsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:28:04.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketListByClientID.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\TicketListByClientID.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Entities\\TicketListByClientID.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\TicketListByClientID.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Entities\\TicketListByClientID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:47:41.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateTicketModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\UpdateTicketModel.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Entities\\UpdateTicketModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\UpdateTicketModel.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Entities\\UpdateTicketModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:54:57.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompleteTicketModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\CompleteTicketModel.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Entities\\CompleteTicketModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\CompleteTicketModel.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Entities\\CompleteTicketModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:17:41.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PreliminaryTicketsList.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\PreliminaryTicketsList.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Entities\\PreliminaryTicketsList.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\PreliminaryTicketsList.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Entities\\PreliminaryTicketsList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:07:25.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreatePreliminaryTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\CreatePreliminaryTicket.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Entities\\CreatePreliminaryTicket.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\CreatePreliminaryTicket.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Entities\\CreatePreliminaryTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:03:01.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketListModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\TicketListModel.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Entities\\TicketListModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\TicketListModel.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Entities\\TicketListModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:11:52.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TicketWithUserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\TicketWithUserInfo.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Entities\\TicketWithUserInfo.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\TicketWithUserInfo.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Entities\\TicketWithUserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:50:49.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TicketResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\TicketResponseModel.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Entities\\TicketResponseModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\TicketResponseModel.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Entities\\TicketResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:20:18.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\UserModel.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\Entities\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\Entities\\UserModel.cs",
+              "RelativeToolTip": "TicketsMicroservice\\Entities\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:39:44.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "TicketsMicroservice\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\TicketsMicroservice\\TicketsMicroservice\\JwtMiddleware.cs",
+              "RelativeToolTip": "TicketsMicroservice\\JwtMiddleware.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:02:12.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

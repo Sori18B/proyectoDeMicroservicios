@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\representativeslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\representativeslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\repositories\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\repositories\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\clientidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\clientidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\userinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\userinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\accion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\accion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\updateusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\updateusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\userslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\userslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\ivan6\\downloads\\proyecto de microservicios\\apis\\usersmicroservice\\usersmicroservice\\entities\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397F4615-6C16-4640-8AE2-93BE75DFC8E1}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\entities\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\Users.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:24:49.109Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\Roles.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\Roles.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\Roles.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:24:48.462Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Repositories\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "UsersMicroservice\\Repositories\\UsersRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAkwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:20:41.032Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Repositories\\IUsers.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Repositories\\IUsers.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Repositories\\IUsers.cs",
+              "RelativeToolTip": "UsersMicroservice\\Repositories\\IUsers.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA+wBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:25:36.019Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Program.cs",
+              "RelativeToolTip": "UsersMicroservice\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwFcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:46:36.129Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "UsersMicroservice\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\appsettings.json",
+              "RelativeToolTip": "UsersMicroservice\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T02:13:25.32Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UsersMicroservice\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:40:30.022Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\LoginResponseModel.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\LoginResponseModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\LoginResponseModel.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\LoginResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:48:26.553Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "UsersMicroservice\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:57:51.662Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepresentativesList.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\RepresentativesList.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\RepresentativesList.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\RepresentativesList.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\RepresentativesList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:08:36.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientIDModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\ClientIDModel.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\ClientIDModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\ClientIDModel.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\ClientIDModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:02:02.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Accion.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\Accion.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\Accion.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\Accion.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\Accion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:12:30.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\Menu.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\Menu.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\Menu.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:11:58.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserInfoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\UserInfoModel.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\UserInfoModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\UserInfoModel.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\UserInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:33:03.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\UpdateUserModel.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\UpdateUserModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\UpdateUserModel.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\UpdateUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:36:05.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\LoginModel.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\LoginModel.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:56:27.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\RegisterUserModel.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\RegisterUserModel.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\RegisterUserModel.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\RegisterUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:51:37.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsersList.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\UsersList.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Entities\\UsersList.cs",
+              "ToolTip": "C:\\Users\\Ivan6\\Downloads\\Proyecto de microservicios\\APIs\\UsersMicroservice\\UsersMicroservice\\Entities\\UsersList.cs",
+              "RelativeToolTip": "UsersMicroservice\\Entities\\UsersList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:32:23.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
